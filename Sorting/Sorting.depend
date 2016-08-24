@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1453310191 source:c:\users\administrator\documents\sorting\main.c
+	<stdio.h>
+	<stdlib.h>
+
